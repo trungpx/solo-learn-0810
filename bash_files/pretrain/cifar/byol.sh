@@ -37,3 +37,5 @@ python3 ../../../main_pretrain.py \
     --final_tau_momentum 1.0 \
     --momentum_classifier \
     --checkpoint_frequency 100 \
+
+# test
